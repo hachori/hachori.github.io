@@ -3,7 +3,7 @@ layout: single
 title:  "Colab에서 파일 업로드하기!"
 ---
 
-# Colad에서 파일 업로드하기
+# Colab에서 파일 업로드하기
 
 ~~~python
 from google.colab import files
