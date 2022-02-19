@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Dockekr에서 주피너노트북 바로 실행하기"
+title:  "Dockekr에서 jupyter notebook 바로 실행하기"
 ---
 
 # 실행 명령어
